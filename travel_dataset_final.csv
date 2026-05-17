@@ -1,0 +1,209 @@
+origin,destination,date,flight_name,airplane_name,from_time,to_time,stops,duration,cabin,price
+CAI,LXR,2026-05-05,Air Cairo,,5:15 pm,6:55 pm,nonstop,1h 40m,Economy Cabin,114.0
+CAI,LXR,2026-05-05,Egyptair,,7:25 pm,8:30 pm,nonstop,1h 05m,Economy Cabin,222.0
+CAI,LXR,2026-05-05,Egyptair,,1:55 pm,2:55 pm,nonstop,1h 00m,Economy Cabin,231.0
+LXR,CAI,2026-05-05,Egyptair,,9:10 pm,10:20 pm,nonstop,1h 10m,Economy Cabin,221.0
+CAI,SSH,2026-05-05,Air Cairo,,10:20 pm,11:50 pm,nonstop,1h 30m,Economy Cabin,84.0
+CAI,SSH,2026-05-05,Air Cairo,,4:15 pm,5:15 pm,nonstop,1h 00m,Economy Cabin,104.0
+CAI,SSH,2026-05-05,Egyptair,,8:50 pm,9:50 pm,nonstop,1h 00m,Economy Cabin,186.0
+CAI,SSH,2026-05-05,Air Cairo,,11:30 am,12:30 pm,nonstop,1h 00m,Economy Cabin,112.0
+CAI,SSH,2026-05-05,Air Cairo,,12:30 pm,2:00 pm,nonstop,1h 30m,Economy Cabin,112.0
+SSH,CAI,2026-05-05,Air Cairo,,11:00 pm,"12:00 am
++1",nonstop,1h 00m,Economy Cabin,86.0
+SSH,CAI,2026-05-05,Air Cairo,,6:15 pm,7:15 pm,nonstop,1h 00m,Economy Cabin,104.0
+SSH,CAI,2026-05-05,Egyptair,,10:30 pm,11:30 pm,nonstop,1h 00m,Economy Cabin,188.0
+SSH,CAI,2026-05-05,Air Cairo,,1:30 pm,2:30 pm,nonstop,1h 00m,Economy Cabin,112.0
+SSH,CAI,2026-05-05,Air Cairo,,2:45 pm,4:15 pm,nonstop,1h 30m,Economy Cabin,112.0
+SSH,CAI,2026-05-05,Egyptair,,12:40 pm,1:40 pm,nonstop,1h 00m,Fully Flex,215.0
+CAI,MIL,2026-05-05,Egyptair,,1:50 pm,4:50 pm,nonstop,4h 00m,Economy Cabin,271.0
+CAI,MIL,2026-05-05,"Air Cairo, Wizz Air",,10:20 pm,"1:35 am
++2",1 stop,28h 15m,Economy Cabin + Basic,213.0
+CAI,MIL,2026-05-05,ITA Airways,,5:55 pm,11:10 pm,1 stop,6h 15m,Economy Cabin,383.0
+CAI,MIL,2026-05-05,SWISS,,6:10 pm,11:40 pm,1 stop,6h 30m,Economy Basic,384.0
+CAI,MIL,2026-05-05,Lufthansa,,4:20 pm,11:10 pm,1 stop,7h 50m,Economy Basic,385.0
+CAI,MIL,2026-05-05,"Lufthansa, Air Dolomiti",,4:20 pm,11:10 pm,1 stop,7h 50m,Economy Basic + Economy,433.0
+CAI,MIL,2026-05-05,"Egyptair, SWISS",,6:10 pm,11:40 pm,1 stop,6h 30m,Best Offer + Economy Flex,2762.0
+CAI,MIL,2026-05-05,Etihad Airways,,7:45 pm,"6:45 am
++1",1 stop,12h 00m,Economy Basic,1867.0
+CAI,MIL,2026-05-05,Turkish Airlines,,10:15 pm,"8:40 am
++1",1 stop,11h 25m,Promotion,372.0
+CAI,MIL,2026-05-05,"Egyptair, easyJet",,4:35 pm,"1:05 am
++1",1 stop,9h 30m,Economy Cabin + Light,451.0
+CAI,MIL,2026-05-05,ITA Airways,,5:55 pm,"7:40 am
++1",1 stop,14h 45m,Economy Cabin,406.0
+CAI,MIL,2026-05-05,Qatar Airways,,7:50 pm,"7:55 am
++1",1 stop,13h 05m,Economy Classic,630.0
+CAI,MIL,2026-05-05,ITA Airways,,5:55 pm,"8:10 am
++1",1 stop,15h 15m,Economy Cabin,406.0
+CAI,MIL,2026-05-05,Turkish Airlines,,9:45 pm,"8:40 am
++1",1 stop,11h 55m,Promotion,487.0
+CAI,MIL,2026-05-05,Turkish Airlines,,10:40 am,5:45 pm,1 stop,8h 05m,Flexible,1448.0
+CAI,MIL,2026-05-05,Etihad Airways,,7:45 pm,"1:48 pm
++1",2 stops,19h 03m,Economy Basic,877.0
+CAI,MIL,2026-05-05,Turkish Airlines,,3:15 pm,11:45 pm,1 stop,9h 30m,Flexible,812.0
+CAI,MIL,2026-05-05,"Turkish Airlines, Lufthansa",,10:15 pm,"8:05 am
++1",2 stops,10h 50m,Promotion + Economy Basic,449.0
+CAI,MIL,2026-05-05,Multiple airlines,,10:15 pm,"8:05 am
++1",2 stops,10h 50m,Promotion + Economy Basic + Economy,449.0
+CAI,MIL,2026-05-05,Multiple airlines,,9:45 pm,"8:05 am
++1",2 stops,11h 20m,Promotion + Economy Basic + Economy,449.0
+CAI,MIL,2026-05-05,"Turkish Airlines, Lufthansa",,9:45 pm,"8:05 am
++1",2 stops,11h 20m,Promotion + Economy Basic,449.0
+CAI,MIL,2026-05-05,Multiple airlines,,4:35 pm,"12:55 am
++1",2 stops,9h 20m,Economy Cabin + Basic,570.0
+CAI,MIL,2026-05-05,"Turkish Airlines, Lufthansa",,10:15 pm,"9:10 am
++1",2 stops,11h 55m,Promotion + Economy Basic,449.0
+CAI,MIL,2026-05-05,"Turkish Airlines, Lufthansa",,9:45 pm,"9:10 am
++1",2 stops,12h 25m,Promotion + Economy Basic,449.0
+CAI,MIL,2026-05-05,"Turkish Airlines, Lufthansa",,10:15 pm,"10:35 am
++1",2 stops,13h 20m,Basic Economy + Economy Basic,461.0
+CAI,MIL,2026-05-05,Multiple airlines,,4:35 pm,"6:50 am
++1",3 stops,15h 15m,Economy Cabin + Basic,505.0
+CAI,MIL,2026-05-05,"Turkish Airlines, Lufthansa",,9:45 pm,"10:35 am
++1",2 stops,13h 50m,Basic Economy + Economy Basic,461.0
+CAI,MIL,2026-05-05,"Air Cairo, Ajet",,8:45 pm,"11:45 am
++1",2 stops,16h 00m,Economy Cabin,384.0
+CAI,MIL,2026-05-05,"Turkish Airlines, Lufthansa",,10:15 pm,"10:40 am
++1",2 stops,13h 25m,Promotion + Economy Basic,449.0
+CAI,MIL,2026-05-05,"Air Cairo, Ajet",,10:20 pm,"11:45 am
++1",2 stops,14h 25m,Economy Cabin,404.0
+CAI,MIL,2026-05-05,"Turkish Airlines, Lufthansa",,9:45 pm,"10:40 am
++1",2 stops,13h 55m,Promotion + Economy Basic,449.0
+CAI,MIL,2026-05-05,"Air Cairo, Ajet",,8:50 pm,"11:45 am
++1",2 stops,15h 55m,Economy Cabin,400.0
+CAI,MIL,2026-05-05,"Turkish Airlines, Lufthansa",,10:15 pm,"12:15 pm
++1",2 stops,15h 00m,Promotion + Economy Basic,449.0
+CAI,MIL,2026-05-05,Multiple airlines,,10:15 pm,"12:15 pm
++1",2 stops,15h 00m,Promotion + Economy Basic + Economy,449.0
+CAI,MIL,2026-05-05,"Turkish Airlines, Lufthansa",,9:45 pm,"12:15 pm
++1",2 stops,15h 30m,Promotion + Economy Basic,449.0
+CAI,MIL,2026-05-05,Multiple airlines,,9:45 pm,"12:15 pm
++1",2 stops,15h 30m,Promotion + Economy Basic + Economy,449.0
+CAI,MIL,2026-05-05,"Lufthansa, Ryanair",,4:20 pm,"7:10 am
++1",2 stops,15h 50m,Economy Basic + Basic,449.0
+CAI,MIL,2026-05-05,"Turkish Airlines, Lufthansa",,10:15 pm,"1:00 pm
++1",2 stops,15h 45m,Economy Cabin + Economy Basic,450.0
+CAI,MIL,2026-05-05,Turkish Airlines,,10:40 am,11:45 pm,1 stop,14h 05m,Flexible,1448.0
+CAI,MIL,2026-05-05,Multiple airlines,,10:15 pm,"8:05 am
++1",2 stops,10h 50m,Economy Cabin + Economy Basic + Economy,2190.0
+CAI,MIL,2026-05-05,"Egyptair, Lufthansa",,10:15 pm,"8:05 am
++1",2 stops,10h 50m,Economy Cabin + Economy Basic,2190.0
+CAI,MIL,2026-05-05,"Egyptair, Lufthansa",,9:45 pm,"8:05 am
++1",2 stops,11h 20m,Economy Cabin + Economy Basic,2191.0
+CAI,MIL,2026-05-05,Multiple airlines,,9:45 pm,"8:05 am
++1",2 stops,11h 20m,Economy Cabin + Economy Basic + Economy,2191.0
+CAI,MIL,2026-05-05,"Egyptair, Lufthansa",,10:15 pm,"9:10 am
++1",2 stops,11h 55m,Economy Cabin + Economy Basic,2175.0
+CAI,MIL,2026-05-05,Multiple airlines,,10:15 pm,"10:40 am
++1",2 stops,13h 25m,Promotion + Economy Basic + Economy Cabin,1766.0
+CAI,MIL,2026-05-05,Multiple airlines,,10:15 pm,"12:00 pm
++1",2 stops,14h 45m,Promotion + Economy Basic + Economy,1043.0
+CAI,MIL,2026-05-05,"Turkish Airlines, Lufthansa",,10:15 pm,"12:00 pm
++1",2 stops,14h 45m,Economy Cabin + Economy Basic,1043.0
+CAI,MIL,2026-05-05,Multiple airlines,,9:45 pm,"10:40 am
++1",2 stops,13h 55m,Promotion + Economy Basic + Economy Cabin,1766.0
+CAI,MIL,2026-05-05,Multiple airlines,,9:45 pm,"12:00 pm
++1",2 stops,15h 15m,Promotion + Economy Basic + Economy,1043.0
+CAI,MIL,2026-05-05,"Turkish Airlines, Lufthansa",,9:45 pm,"12:00 pm
++1",2 stops,15h 15m,Economy Cabin + Economy Basic,1043.0
+MIL,CAI,2026-05-05,Air Cairo,,6:00 pm,10:45 pm,nonstop,3h 45m,Economy Cabin,133.0
+MIL,CAI,2026-05-05,Egyptair,,5:50 pm,10:30 pm,nonstop,3h 40m,Economy Cabin,229.0
+MIL,CAI,2026-05-05,Egyptair,,2:30 pm,7:10 pm,nonstop,3h 40m,Economy Cabin,265.0
+MIL,CAI,2026-05-05,Air Cairo,,5:50 pm,10:30 pm,nonstop,3h 40m,Economy Cabin,470.0
+MIL,CAI,2026-05-05,Air Cairo,,2:30 pm,7:10 pm,nonstop,3h 40m,Economy Cabin,534.0
+MIL,CAI,2026-05-05,ITA Airways,,7:00 pm,"2:15 am
++1",1 stop,6h 15m,Economy Cabin,253.0
+MIL,CAI,2026-05-05,Turkish Airlines,,7:45 pm,"4:20 am
++1",1 stop,7h 35m,Promotion,248.0
+MIL,CAI,2026-05-05,ITA Airways,,6:00 pm,"2:15 am
++1",1 stop,7h 15m,Economy Cabin,253.0
+MIL,CAI,2026-05-05,Turkish Airlines,,2:55 pm,11:45 pm,1 stop,7h 50m,Promotion,249.0
+MIL,CAI,2026-05-05,Aegean Airlines,,7:25 pm,"2:50 am
++1",1 stop,6h 25m,Economy Cabin,309.0
+MIL,CAI,2026-05-05,ITA Airways,,5:00 pm,"2:15 am
++1",1 stop,8h 15m,Economy Cabin,253.0
+MIL,CAI,2026-05-05,LOT,,7:40 pm,"3:55 am
++1",1 stop,7h 15m,Economy Saver,379.0
+MIL,CAI,2026-05-05,ITA Airways,,4:00 pm,"2:15 am
++1",1 stop,9h 15m,Economy Cabin,269.0
+MIL,CAI,2026-05-05,ITA Airways,,3:00 pm,"2:15 am
++1",1 stop,10h 15m,Economy Cabin,269.0
+MIL,CAI,2026-05-05,"easyJet, Aegean Airlines",,7:05 pm,"2:50 am
++1",1 stop,6h 45m,Light + Economy Cabin,296.0
+MIL,CAI,2026-05-05,"easyJet, Air Cairo",,3:30 pm,11:40 pm,1 stop,7h 10m,Light + Economy Cabin,354.0
+MIL,CAI,2026-05-05,Lufthansa,,7:20 pm,"3:05 am
++1",1 stop,6h 45m,Economy Light,946.0
+MIL,CAI,2026-05-05,"Nouvelair, Tunisair",,6:50 pm,"3:05 am
++1",1 stop,7h 15m,Economy Cabin,325.0
+MIL,CAI,2026-05-05,"easyJet, Air Cairo",,3:30 pm,"12:30 am
++1",1 stop,8h 00m,Light + Economy Cabin,328.0
+MIL,CAI,2026-05-05,Turkish Airlines,,7:45 pm,"9:05 am
++1",1 stop,12h 20m,Promotion,250.0
+MIL,CAI,2026-05-05,"Air Dolomiti, Lufthansa",,7:20 pm,"3:05 am
++1",1 stop,6h 45m,Economy + Economy Basic,1021.0
+MIL,CAI,2026-05-05,Lufthansa,,1:40 pm,8:35 pm,1 stop,5h 55m,Economy Basic,1137.0
+MIL,CAI,2026-05-05,Etihad Airways,,10:55 pm,"1:10 pm
++1",1 stop,13h 15m,Economy Basic,440.0
+MIL,CAI,2026-05-05,Turkish Airlines,,7:45 pm,"6:10 am
++1",1 stop,9h 25m,Promotion,406.0
+MIL,CAI,2026-05-05,Turkish Airlines,,10:40 am,11:45 pm,1 stop,12h 05m,Promotion,255.0
+MIL,CAI,2026-05-05,Lufthansa,,6:50 pm,"3:05 am
++1",1 stop,7h 15m,Economy Light,943.0
+MIL,CAI,2026-05-05,Lufthansa,,12:40 pm,8:30 pm,1 stop,6h 50m,Economy Basic,988.0
+MIL,CAI,2026-05-05,ITA Airways,,1:00 pm,"2:15 am
++1",1 stop,12h 15m,Economy Saver,295.0
+MIL,CAI,2026-05-05,Turkish Airlines,,2:55 pm,"4:20 am
++1",1 stop,12h 25m,Promotion,250.0
+MIL,CAI,2026-05-05,Lufthansa,,6:10 pm,"3:05 am
++1",1 stop,7h 55m,Economy Light,947.0
+MIL,CAI,2026-05-05,Royal Air Maroc,,6:05 pm,"8:30 am
++1",1 stop,13h 25m,Economy Cabin,458.0
+MIL,CAI,2026-05-05,British Airways,,3:55 pm,"1:15 am
++1",1 stop,8h 20m,Standard Economy,953.0
+MIL,CAI,2026-05-05,"easyJet, Aegean Airlines",,12:20 pm,"2:50 am
++1",1 stop,13h 30m,Light + Economy Cabin,292.0
+MIL,CAI,2026-05-05,Ajet,,12:45 pm,11:30 pm,1 stop,9h 45m,Economy Cabin,354.0
+MIL,CAI,2026-05-05,Turkish Airlines,,10:40 am,8:55 pm,1 stop,9h 15m,Semi-Flexible,632.0
+MIL,CAI,2026-05-05,Tunisair,,11:30 am,"3:05 am
++1",1 stop,14h 35m,Economy Cabin,422.0
+MIL,CAI,2026-05-05,"Lufthansa, Aegean Airlines",,5:40 pm,"2:50 am
++1",2 stops,8h 10m,Economy Basic + Economy Cabin,532.0
+MIL,CAI,2026-05-05,Aegean Airlines,,10:15 am,9:30 pm,1 stop,10h 15m,Economy Cabin,774.0
+MIL,CAI,2026-05-05,Eurowings,,8:40 pm,"11:35 am
++1",1 stop,13h 55m,Basic,482.0
+MIL,CAI,2026-05-05,Turkish Airlines,,2:55 pm,"6:10 am
++1",1 stop,14h 15m,Promotion,408.0
+MIL,CAI,2026-05-05,Royal Jordanian,,4:35 pm,"7:50 am
++1",2 stops,14h 15m,Economy Cabin,427.0
+MIL,CAI,2026-05-05,"Ryanair, Aegean Airlines",,5:10 pm,"2:50 am
++1",2 stops,8h 40m,Basic + Economy Cabin,403.0
+MIL,CAI,2026-05-05,Multiple airlines,,5:10 pm,"2:50 am
++1",2 stops,8h 40m,Basic + Economy Cabin,399.0
+MIL,CAI,2026-05-05,"Vueling, Aegean Airlines",,2:25 pm,"2:50 am
++1",2 stops,11h 25m,Economy + Economy Cabin,632.0
+MIL,CAI,2026-05-05,"Lufthansa, Aegean Airlines",,3:20 pm,"2:50 am
++1",2 stops,10h 30m,Economy Basic + Economy Cabin,541.0
+MIL,CAI,2026-05-05,"Pegasus Airlines, Air Cairo",,5:15 pm,"8:40 am
++1",1 stop,14h 25m,Light + Economy Cabin,519.0
+MIL,CAI,2026-05-05,Multiple airlines,,5:35 pm,"8:40 am
++1",2 stops,14h 05m,SunLight + Economy Cabin,297.0
+MIL,CAI,2026-05-05,Multiple airlines,,5:15 pm,"7:00 am
++1",2 stops,12h 45m,Light + Economy Cabin,579.0
+MIL,CAI,2026-05-05,"Air Dolomiti, Lufthansa",,2:40 pm,"2:15 am
++1",2 stops,10h 35m,Economy + Economy Basic,756.0
+MIL,CAI,2026-05-05,Lufthansa,,2:40 pm,"2:15 am
++1",2 stops,10h 35m,Economy Basic,756.0
+CAI,ASW,2026-05-05,Egyptair,,11:20 pm,"12:40 am
++1",nonstop,1h 20m,Economy Cabin,229.0
+CAI,ASW,2026-05-05,Egyptair,,7:25 pm,8:45 pm,nonstop,1h 20m,Economy Cabin,238.0
+ASW,CAI,2026-05-05,Egyptair,,3:45 pm,5:10 pm,nonstop,1h 25m,Economy Cabin,229.0
+ASW,CAI,2026-05-05,Egyptair,,9:25 pm,10:45 pm,nonstop,1h 20m,Economy Cabin,238.0
+CAI,HRG,2026-05-05,Air Cairo,,8:45 pm,10:15 pm,nonstop,1h 30m,Economy Cabin,104.0
+CAI,HRG,2026-05-05,Air Cairo,,8:50 pm,9:50 pm,nonstop,1h 00m,Economy Cabin,124.0
+CAI,HRG,2026-05-05,Egyptair,,8:50 pm,9:50 pm,nonstop,1h 00m,Economy Cabin,186.0
+CAI,HRG,2026-05-05,Air Cairo,,11:15 am,12:45 pm,nonstop,1h 30m,Economy Cabin,112.0
+HRG,CAI,2026-05-05,Air Cairo,,11:00 pm,"12:30 am
++1",nonstop,1h 30m,Economy Cabin,106.0
+HRG,CAI,2026-05-05,Air Cairo,,6:15 pm,7:45 pm,nonstop,1h 30m,Economy Cabin,118.0
+HRG,CAI,2026-05-05,Air Cairo,,10:30 pm,11:40 pm,nonstop,1h 10m,Economy Cabin,124.0
+HRG,CAI,2026-05-05,Egyptair,,10:30 pm,11:40 pm,nonstop,1h 10m,Economy Cabin,186.0
