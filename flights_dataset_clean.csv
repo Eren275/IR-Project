@@ -1,0 +1,66 @@
+origin,destination,route,date,day_of_week,month,airline,duration,duration_min,from_time,to_time,stops_raw,num_stops,cabin_class,base_price,tax,total_cost,fare_1_price,fare_2_price,best_provider_name,best_provider_price,savings_vs_best,budget_level,affordability_score,is_outlier
+CAI,ICN,CAI → ICN,2026-05-20,Wednesday,May,Emirates,14h 55m,895,8:05 pm,"5:00 pm
++1",1 stop,1,Eco Saver,594,89.1,683.1,594,644.0,Expedia,594.0,0.0,High (> $500),1.4639,False
+CAI,ICN,CAI → ICN,2026-05-20,Wednesday,May,"Air China, Spring Airlines",19h 40m,1180,2:15 pm,"3:55 pm
++1",2 stops,2,Economy,580,87.0,667.0,580,580.0,Kiwi.com,580.0,0.0,High (> $500),1.4993,False
+CAI,ICN,CAI → ICN,2026-05-20,Wednesday,May,Emirates,17h 25m,1045,5:35 pm,"5:00 pm
++1",1 stop,1,Eco Saver,594,89.1,683.1,594,644.0,Expedia,594.0,0.0,High (> $500),1.4639,False
+CAI,ICN,CAI → ICN,2026-05-20,Wednesday,May,Etihad Airways,13h 50m,830,3:00 pm,"10:50 am
++1",1 stop,1,Economy Basic,922,138.3,1060.3,922,966.0,Gotogate,922.0,0.0,High (> $500),0.9431,True
+CAI,ICN,CAI → ICN,2026-05-20,Wednesday,May,Qatar Airways,15h 40m,940,7:50 pm,"5:30 pm
++1",1 stop,1,Economy Convenience,853,127.95,980.95,853,893.0,Qatar Airways,853.0,0.0,High (> $500),1.0194,True
+CAI,ICN,CAI → ICN,2026-05-25,Monday,May,China Eastern,15h 40m,940,2:15 pm,"11:55 am
++1",1 stop,1,Economy,421,63.15,484.15,421,916.0,Kiwi.com,421.0,0.0,Medium ($200–$500),2.0655,False
+CAI,ICN,CAI → ICN,2026-05-25,Monday,May,China Eastern,18h 55m,1135,2:15 pm,"3:10 pm
++1",1 stop,1,Economy,416,62.4,478.4,416,416.0,Kiwi.com,416.0,0.0,Medium ($200–$500),2.0903,False
+CAI,ICN,CAI → ICN,2026-05-25,Monday,May,Emirates,14h 55m,895,8:05 pm,"5:00 pm
++1",1 stop,1,Eco Saver,594,89.1,683.1,594,644.0,Expedia,594.0,0.0,High (> $500),1.4639,False
+CAI,ICN,CAI → ICN,2026-05-25,Monday,May,China Eastern,19h 05m,1145,2:15 pm,"3:20 pm
++1",1 stop,1,Economy,421,63.15,484.15,421,421.0,Kiwi.com,421.0,0.0,Medium ($200–$500),2.0655,False
+CAI,ICN,CAI → ICN,2026-05-25,Monday,May,China Eastern,21h 10m,1270,2:15 pm,"5:25 pm
++1",1 stop,1,Economy,416,62.4,478.4,416,416.0,Kiwi.com,416.0,0.0,Medium ($200–$500),2.0903,False
+ICN,CAI,ICN → CAI,2026-05-20,Wednesday,May,China Eastern,20h 20m,1220,6:25 pm,"8:45 am
++1",1 stop,1,Economy + Premium Economy,440,66.0,506.0,438,952.0,Mytrip,438.0,2.0,High (> $500),1.9763,False
+ICN,CAI,ICN → CAI,2026-05-20,Wednesday,May,China Eastern,42h 30m,2550,8:15 pm,"8:45 am
++2",2 stops,2,Economy,389,58.35,447.35,384,384.0,Mytrip,384.0,5.0,Medium ($200–$500),2.2354,False
+ICN,CAI,ICN → CAI,2026-05-20,Wednesday,May,China Eastern,22h 25m,1345,4:20 pm,"8:45 am
++1",1 stop,1,Economy + Premium Economy,440,66.0,506.0,438,952.0,Booking.com,438.0,2.0,High (> $500),1.9763,False
+ICN,CAI,ICN → CAI,2026-05-20,Wednesday,May,Turkish Airlines,16h 35m,995,10:15 am,8:50 pm,1 stop,1,Economy,695,104.25,799.25,695,1237.0,Turkish Airlines,695.0,0.0,High (> $500),1.2512,True
+ICN,CAI,ICN → CAI,2026-05-20,Wednesday,May,China Eastern,22h 30m,1350,4:15 pm,"8:45 am
++1",1 stop,1,Economy + Premium Economy,440,66.0,506.0,438,952.0,Booking.com,438.0,2.0,High (> $500),1.9763,False
+ICN,CAI,ICN → CAI,2026-05-25,Monday,May,China Eastern,20h 20m,1220,6:25 pm,"8:45 am
++1",1 stop,1,Economy,439,65.85,504.85,439,440.0,eDreams,439.0,0.0,High (> $500),1.9808,False
+ICN,CAI,ICN → CAI,2026-05-25,Monday,May,"Asiana Airlines, Hainan Airlines",28h 35m,1715,10:05 am,"8:40 am
++1",1 stop,1,Economy + Economy,370,55.5,425.5,358,370.0,Priceline,358.0,12.0,Medium ($200–$500),2.3502,False
+ICN,CAI,ICN → CAI,2026-05-25,Monday,May,China Eastern,22h 25m,1345,4:20 pm,"8:45 am
++1",1 stop,1,Economy,439,65.85,504.85,437,439.0,Booking.com,437.0,2.0,High (> $500),1.9808,False
+ICN,CAI,ICN → CAI,2026-05-25,Monday,May,"Korean Air, Hainan Airlines",30h 00m,1800,8:40 am,"8:40 am
++1",1 stop,1,Economy,370,55.5,425.5,380,425.0,Kiwi.com,380.0,-10.0,Medium ($200–$500),2.3502,False
+ICN,CAI,ICN → CAI,2026-05-25,Monday,May,China Eastern,22h 30m,1350,4:15 pm,"8:45 am
++1",1 stop,1,Economy,439,65.85,504.85,437,439.0,Booking.com,437.0,2.0,High (> $500),1.9808,False
+CAI,PAR,CAI → PAR,2026-05-20,Wednesday,May,Egyptair,4h 40m,280,10:45 am,2:25 pm,nonstop,0,Economy,308,46.2,354.2,308,346.0,eDreams,308.0,0.0,Medium ($200–$500),2.8233,False
+CAI,PAR,CAI → PAR,2026-05-20,Wednesday,May,"Nile Air, Ryanair",19h 15m,1155,5:30 pm,"11:45 am
++1",2 stops,2,Economy + Basic,169,25.35,194.35,169,169.0,Kiwi.com,169.0,0.0,Low (< $200),5.1454,False
+CAI,PAR,CAI → PAR,2026-05-20,Wednesday,May,Transavia France,5h 00m,300,6:20 pm,10:20 pm,nonstop,0,Economy,307,46.05,353.05,307,307.0,Transavia,307.0,0.0,Medium ($200–$500),2.8325,False
+CAI,PAR,CAI → PAR,2026-05-20,Wednesday,May,Air France,4h 40m,280,4:10 am,7:50 am,nonstop,0,Light,458,68.7,526.7,458,526.0,Air France,458.0,0.0,High (> $500),1.8986,False
+CAI,PAR,CAI → PAR,2026-05-20,Wednesday,May,ITA Airways,6h 45m,405,5:55 pm,11:40 pm,1 stop,1,Economy,326,48.9,374.9,326,340.0,Booking.com,326.0,0.0,Medium ($200–$500),2.6674,False
+CAI,PAR,CAI → PAR,2026-05-25,Monday,May,Transavia France,5h 00m,300,3:35 pm,7:35 pm,nonstop,0,Economy,311,46.65,357.65,311,311.0,eDreams,311.0,0.0,Medium ($200–$500),2.796,False
+CAI,PAR,CAI → PAR,2026-05-25,Monday,May,Ajet,9h 55m,595,2:40 am,11:35 am,1 stop,1,Economy,303,45.45,348.45,190,190.0,Kiwi.com,190.0,113.0,Medium ($200–$500),2.8699,False
+CAI,PAR,CAI → PAR,2026-05-25,Monday,May,Egyptair,4h 40m,280,10:45 am,2:25 pm,nonstop,0,Economy,411,61.65,472.65,411,465.0,eDreams,411.0,0.0,Medium ($200–$500),2.1157,False
+CAI,PAR,CAI → PAR,2026-05-25,Monday,May,Air France,4h 40m,280,4:10 am,7:50 am,nonstop,0,Light,458,68.7,526.7,458,526.0,Air France,458.0,0.0,High (> $500),1.8986,False
+CAI,PAR,CAI → PAR,2026-05-25,Monday,May,ITA Airways,7h 00m,420,4:45 am,10:45 am,1 stop,1,Economy,314,47.1,361.1,314,340.0,eDreams,314.0,0.0,Medium ($200–$500),2.7693,False
+PAR,CAI,PAR → CAI,2026-05-20,Wednesday,May,Egyptair,4h 20m,260,4:00 pm,9:20 pm,nonstop,0,Economy,461,69.15,530.15,461,498.0,Booking.com,461.0,0.0,High (> $500),1.8863,False
+PAR,CAI,PAR → CAI,2026-05-20,Wednesday,May,"easyJet, Air Cairo",22h 45m,1365,7:15 am,"7:00 am
++1",1 stop,1,Light + Economy,259,38.85,297.85,259,259.0,Kiwi.com,259.0,0.0,Medium ($200–$500),3.3574,False
+PAR,CAI,PAR → CAI,2026-05-20,Wednesday,May,Air France,4h 20m,260,8:50 pm,"2:10 am
++1",nonstop,0,Light,1194,179.1,1373.1,1194,1273.0,Air France,1194.0,0.0,High (> $500),0.7283,True
+PAR,CAI,PAR → CAI,2026-05-20,Wednesday,May,SWISS,6h 30m,390,9:45 am,5:15 pm,1 stop,1,Economy Light,450,67.5,517.5,450,461.0,Expedia,450.0,0.0,High (> $500),1.9324,False
+PAR,CAI,PAR → CAI,2026-05-20,Wednesday,May,ITA Airways,7h 00m,420,6:15 pm,"2:15 am
++1",1 stop,1,Economy Light,440,66.0,506.0,440,467.0,ITA Airways,440.0,0.0,High (> $500),1.9763,False
+PAR,CAI,PAR → CAI,2026-05-25,Monday,May,Transavia France,4h 40m,280,9:00 am,2:40 pm,nonstop,0,Economy,470,70.5,540.5,470,470.0,Transavia,470.0,0.0,High (> $500),1.8501,False
+PAR,CAI,PAR → CAI,2026-05-25,Monday,May,Multiple airlines,30h 10m,1810,9:15 am,"4:25 pm
++1",2 stops,2,Economy,188,28.2,216.2,188,188.0,Kiwi.com,188.0,0.0,Medium ($200–$500),4.6253,False
+PAR,CAI,PAR → CAI,2026-05-25,Monday,May,Egyptair,4h 20m,260,4:00 pm,9:20 pm,nonstop,0,Economy,517,77.55,594.55,517,636.0,Kiwi.com,517.0,0.0,High (> $500),1.6819,False
+PAR,CAI,PAR → CAI,2026-05-25,Monday,May,Austrian Airlines,7h 40m,460,7:05 am,3:45 pm,1 stop,1,Economy,329,49.35,378.35,322,322.0,Booking.com,322.0,7.0,Medium ($200–$500),2.6431,False
+PAR,CAI,PAR → CAI,2026-05-25,Monday,May,Lufthansa,7h 20m,440,6:45 pm,"3:05 am
++1",1 stop,1,Economy,330,49.5,379.5,329,390.0,eDreams,329.0,1.0,Medium ($200–$500),2.635,False
